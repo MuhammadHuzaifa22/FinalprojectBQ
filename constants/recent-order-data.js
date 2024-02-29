@@ -1,0 +1,51 @@
+const RECENT_ORDER_DATA = [
+  {
+    productName: "BBQ",
+    productNumber: "85631",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "Biryani",
+    productNumber: "36378",
+    payment: "Refunded",
+    status: "Declined",
+    statusColor: "danger",
+  },
+  {
+    productName: "Karahi",
+    productNumber: "49347",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "White Karahi",
+    productNumber: "96996",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+  {
+    productName: "Chicken Korma",
+    productNumber: "22821",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+  {
+    productName: "Fries",
+    productNumber: "81475",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "Naan",
+    productNumber: "00482",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+];
